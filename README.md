@@ -22,7 +22,7 @@ Download the incom-project.js file from the project/ folder and take a look at t
 			<script src="incom-project.js"></script>
 		</head>
 		<body>
-			<div class="incom-project" data-url="http://incom.org/projekt/15"></div>
+			<div class="incom-project" data-url="http://incom.org/projekt/2789"></div>
 			<script>
 				Incom.setTextTransformationFunction(markdown.toHTML);
 				Incom.projects(".incom-project", {});
